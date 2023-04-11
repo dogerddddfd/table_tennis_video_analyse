@@ -17,6 +17,11 @@
 >
 > npm run serve
 
+
+### 模型文件和视频文件
+链接：https://pan.baidu.com/s/13QncbbJPwt4oac-98VpbZg?pwd=aabb 
+提取码：aabb
+
 ### E_django_ch:未完成的django channel框架服务器
 
 ### 网页演示视频见demo文件夹
