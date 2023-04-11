@@ -1,0 +1,1 @@
+python E:\w\bs\c\sj\E_django\end_tt\manage.py runserver 0.0.0.0:9000   
