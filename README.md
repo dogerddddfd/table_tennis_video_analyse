@@ -17,4 +17,6 @@
 >
 > npm run serve
 
+### E_django_ch:未完成的django channel框架服务器
+
 ### 网页演示视频见demo文件夹
