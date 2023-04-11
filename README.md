@@ -6,6 +6,7 @@
 
 ### 前端依赖
 > cd frontend_table_tennis
+>
 > npm install
 
 ### 后端启动
@@ -13,4 +14,5 @@
 
 ### 前端启动
 > cd frontend_table_tennis
+>
 > npm run serve
