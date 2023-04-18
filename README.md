@@ -1,6 +1,8 @@
 # table_tennis_video_analyse
 ### 毕业设计  《基于计算机视觉的乒乓球视频分析系统设计与开发》
 
+### 网页演示视频见demo文件夹
+
 ### python环境
 > pip install -r requirements.txt
 
@@ -22,6 +24,9 @@
 链接：https://pan.baidu.com/s/13QncbbJPwt4oac-98VpbZg?pwd=aabb 
 提取码：aabb
 
+
 ### E_django_ch:未完成的django channel框架服务器
 
-### 网页演示视频见demo文件夹
+### 计算机视觉神经网络方案：
+https://github.com/maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch
+
